@@ -1,4 +1,6 @@
-Dyn DNS for Hover on OpenWRT
+To have it working on android
+
+DynDynDyn DNS for Hover on OpenWRT
 ============================
 
 Extracted and slightly modified based on the
