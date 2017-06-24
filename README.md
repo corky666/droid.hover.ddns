@@ -21,3 +21,6 @@ FAQ
 ---
 1. find your DNS ID here: `https://www.hover.com/api/domains/yourdomain.com/dns/`
 where `yourdomain.com` is the domain you want to set. The ID looks like: `dns1234567`.
+
+
+All the credit to the creator bof this script, done too fast to test something
