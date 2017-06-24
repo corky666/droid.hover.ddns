@@ -24,3 +24,4 @@ where `yourdomain.com` is the domain you want to set. The ID looks like: `dns123
 
 
 All the credit to the creator bof this script, done too fast to test something
+**** Install to /sdcard/Appz/
