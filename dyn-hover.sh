@@ -2,7 +2,7 @@
 
 [[ $# -lt 3 ]] && echo "Usage: $0 USERNAME PASSWORD DNS_ID" && exit 1
 
-COOKIEJAR=/tmp/hover_cookie.txt
+COOKIEJAR=/sdcard/Appz/tmp/hover_cookie.txt
 USERNAME=${1}
 PASSWORD=${2}
 DNS_ID=${3}
